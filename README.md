@@ -3,7 +3,7 @@
 this mobile app is not completed yet.
 
 ## screenshots          
-![ss1](ss/ss1.png = 300x)
+<img src="/ss/ss1.png" alt="ss1" style="width:300px;height:auto;">
 
 ## Getting Started
 
