@@ -3,7 +3,7 @@
 this mobile app is not completed yet.
 
 ## screenshots          
-![ss](ss/ss1.png = width = 300)
+![ss1](ss/ss1.png = 300x)
 
 ## Getting Started
 
